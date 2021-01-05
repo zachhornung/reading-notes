@@ -16,6 +16,6 @@ How to stay in a growth mindset
 
 ### Table of Contents
 ----------------------------------
-[Markdown](markdown.md) | reading notes on markdown
+ [Markdown](markdown.md) | reading notes on markdown
 -----------------------------------------------------------------------------
-[The Coders Computer](the_coders_computer.md) | reading notes on the coders computer
+ [The Coders Computer](the_coders_computer.md) | reading notes on the coders computer
