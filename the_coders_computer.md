@@ -1,1 +1,1 @@
-* the coders computer reading notes go here
+# the coders computer reading notes go here
