@@ -19,4 +19,4 @@ How to stay in a growth mindset
 * [The Coders Computer](the_coders_computer.md)
 
 
-[Github](https://github.com)
+
