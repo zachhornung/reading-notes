@@ -17,6 +17,8 @@ How to stay in a growth mindset
 ### Table of Contents
 * [Markdown](markdown.md)
 * [The Coders Computer](the_coders_computer.md)
+* [Reading and the Cloud](reading_and_the_cloud.md)
+
 
 
 
