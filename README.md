@@ -20,7 +20,4 @@ How to stay in a growth mindset
 * [Reading and the Cloud](reading_and_the_cloud.md)
 * [Structure Web Pages With HTML](structure_web_pages_with_html.md)
 * [Design Web Pages With CSS](design_web_pages_with_css.md)
-
-
-
-
+* [Dynamic Web Pages With JavaScript](dynamic_web_pages_with_javascript.md)
