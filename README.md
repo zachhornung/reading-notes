@@ -18,6 +18,7 @@ How to stay in a growth mindset
 * [Markdown](markdown.md)
 * [The Coders Computer](the_coders_computer.md)
 * [Reading and the Cloud](reading_and_the_cloud.md)
+* [Structure Web Pages With HTML](structure_web_pages_with_html.md)
 
 
 
