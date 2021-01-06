@@ -1,0 +1,5 @@
+# Design Web Pages With CSS
+- Css allows you to control the design of oyur website and make it more attractive. Css associates style rules to elements of html.  Css declarations sit inside curly brackets and have two parts, a property and a value. The html page uses a reference to the css file in the head tag. Css can be internal in a html file or contained in a different css file that is linked to the html file. 
+- Colors can be defined in three different ways, rgb values, hex codes, and color names. Comments help you to understand and organize a css file. Hue, saturation, and brightness are all aspects of color. Opacity is an aspect of css that allows elements to be made see through to various degrees. The value of opacity is known as alpha value. Hsla is a new way for css to assign hue, saturation, and lightness (not brightness) and alpha (opacity) as values. 
+
+<---- [back](README.md)
