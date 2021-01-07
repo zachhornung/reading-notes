@@ -21,3 +21,4 @@ How to stay in a growth mindset
 * [Structure Web Pages With HTML](structure_web_pages_with_html.md)
 * [Design Web Pages With CSS](design_web_pages_with_css.md)
 * [Dynamic Web Pages With JavaScript](dynamic_web_pages_with_javascript.md)
+* [Computer Architecture and Logic](computer_architecture_and_logic.md)
