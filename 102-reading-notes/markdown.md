@@ -3,4 +3,4 @@ Markdown is a way to make a web page. Markdown is basically just regular text bu
 # Github Pages
 Github pages is a way to make websites using minimal amounts of code. It uses other tools like jekyl to make things easier. Github pages keeps your site on a repository, where you can create other pages and link them to your main site. Github is a great place to create things, and Github pages allows you to share them with others more easily.
 
-<---- [Back](reading-notes/README.md)
+<---- [Back](/)
