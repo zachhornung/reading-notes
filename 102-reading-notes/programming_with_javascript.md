@@ -3,4 +3,4 @@
 - An expression evaluates into a single value. Expressions rely on operators. Operators allow programmers to create a single value from one or more values. Arithmetic operators follow PEMDAS. String operators only use the addition sign, and add two strings together. 
 - Functions let you group a series of statements together to preform a specific task. It allows you to reuse the function rather than repeating the same set of statements. First you define a function using the function keyword, then you call it using the function name. functions can get the values of variables, and arguments can be values.
 
-<----- [Back](README.md)
+<----- [Back](reading-notes/README.md)
