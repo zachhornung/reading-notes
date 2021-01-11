@@ -15,12 +15,12 @@ How to stay in a growth mindset
 > Someone else's success is not your failure.
 
 ### Table of Contents
-* [Markdown](markdown.md)
-* [The Coders Computer](the_coders_computer.md)
-* [Reading and the Cloud](reading_and_the_cloud.md)
-* [Structure Web Pages With HTML](structure_web_pages_with_html.md)
-* [Design Web Pages With CSS](design_web_pages_with_css.md)
-* [Dynamic Web Pages With JavaScript](dynamic_web_pages_with_javascript.md)
-* [Computer Architecture and Logic](computer_architecture_and_logic.md)
-* [Programming With Javascript](programming_with_javascript.md)
-* [Operators and Loops](operators_and_loops.md)
+* [Markdown](102-reading-notes/markdown.md)
+* [The Coders Computer](102-reading-notes/the_coders_computer.md)
+* [Reading and the Cloud](102-reading-notes/reading_and_the_cloud.md)
+* [Structure Web Pages With HTML](102-reading-notes/structure_web_pages_with_html.md)
+* [Design Web Pages With CSS](102-reading-notes/design_web_pages_with_css.md)
+* [Dynamic Web Pages With JavaScript](102-reading-notes/dynamic_web_pages_with_javascript.md)
+* [Computer Architecture and Logic](102-reading-notes/computer_architecture_and_logic.md)
+* [Programming With Javascript](102-reading-notes/programming_with_javascript.md)
+* [Operators and Loops](102-reading-notes/operators_and_loops.md)
