@@ -26,3 +26,4 @@ How to stay in a growth mindset
 * [Programming With Javascript](102-reading-notes/programming_with_javascript.md)
 * [Operators and Loops](102-reading-notes/operators_and_loops.md)
 ## 201 Reading Notes
+* [Class-01](201-reading-notes/class-01.md)
