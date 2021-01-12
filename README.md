@@ -15,6 +15,7 @@ How to stay in a growth mindset
 > Someone else's success is not your failure.
 
 ### Table of Contents
+## 102 Reading Notes
 * [Markdown](102-reading-notes/markdown.md)
 * [The Coders Computer](102-reading-notes/the_coders_computer.md)
 * [Reading and the Cloud](102-reading-notes/reading_and_the_cloud.md)
@@ -24,3 +25,4 @@ How to stay in a growth mindset
 * [Computer Architecture and Logic](102-reading-notes/computer_architecture_and_logic.md)
 * [Programming With Javascript](102-reading-notes/programming_with_javascript.md)
 * [Operators and Loops](102-reading-notes/operators_and_loops.md)
+## 201 Reading Notes
