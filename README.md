@@ -27,3 +27,4 @@ How to stay in a growth mindset
 * [Operators and Loops](102-reading-notes/operators_and_loops.md)
 ## 201 Reading Notes
 * [Class-01](201-reading-notes/class-01.md)
+* [Class-02](201-reading-notes/class-02.md)
