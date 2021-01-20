@@ -33,3 +33,4 @@ How to stay in a growth mindset
 * [Class-05](201-reading-notes/class-05.md)
 * [class-06](201-reading-notes/class-06.md)
 * [class-07](201-reading-notes/class-07.md)
+* [class-08](201-reading-notes/class-08.md)
