@@ -1,0 +1,4 @@
+# Class 03 Reading Notes
+* JavaScript templating is a particularly useful thing to do. Mustache is a library that takes an html template and inserts values into the spaces specified. Mustache does not use logic, it just works by specifying what to put into tags. Mustache.js is the system used for mustache in javascript. 
+* For flexbox formatting, the parent element gets the display flex property. Flexbox’s can be set up in rows or colums, and the children of the flexbox parent can be told to flow in a particular way, and in a particular order. Flex wrap allows a flexbox to wrap around the page border and start a new line. There are many different properties that a flex item can have that determines its placement within the flexbox, and on the page.
+<-----[Back](../README.md)
