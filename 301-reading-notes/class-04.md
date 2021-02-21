@@ -1,0 +1,3 @@
+# Reading Notes for Class 04
+* Css grid is a great tool that allows you to place items exactly where you want to using a coordinate system. On the parent element, display grid will make the grid. Grid-template-columns allows you to define how many columns there are and what their sizes are, and grid-template-rows allows you to do the same for rows. Grid-template combines both column templates and row templates, differentiated by a forward slash. Defined rows go on the left of the slash, and columns on the right. On the children elements, their position is defined by how many rows and columns they span. Grid-column and grid-template allow you to define how where an element starts and ends on the grid. css grid is great thing.
+<-----[Back](../README.md)
