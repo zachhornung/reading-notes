@@ -1,3 +1,3 @@
 # Class 07 Reading Notes
 * http is an amazing thing. It allows your computer to find the location of something anywhere in the world from anywhere in the world. It is like GPS coordinates for information. REST is an architectural style, and provides a definition of a resource, which is what those things point to. A URL tells the browser that there is a concept somewhere. A browser can then go ask for a specific representation of the concept. Web services, or API’s, allow machines to use the web just like people do. A redirect is a machine telling another machine where a different machine has something stored, or knows where it is stored. A URL is a universal noun. Verbs, pronouns, and adjectives. Polymorphism means that different nouns can have the same verb applied to them. http is all about applying verbs to nouns.
-<-----[Back](../README.MD)
+<-----[Back](../README.md)
