@@ -1,0 +1,3 @@
+# Class 08 Reading Notes
+* SQL stands for structured query language. It is a language designed to allow both technical and non-technical users to do stuff in a relational database. A relational database represents a collection of related two-dimensional tables. Select statements are often called queries. A query declares what we are looking for, where to find it in the database, and if needed, how to transform it before it is returned. The where clause in the query is applied to each row of data, and filters what is included in the query. Distinct allows you to get rid of duplicate columns. Order by allows you to sort by a value.
+<-----[Back](../README.md)
