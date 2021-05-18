@@ -6,3 +6,4 @@
 * O(N^2) describes an algorithm whose performance is directly proportional to the square of the size of the dataset.
 * O(2^N) describes an algorithm whose growth doubles every time an item is added to the size of the data set.
 * O(log N) describes an algorithm that iteratively halves data sets, such as a binary search.
+<-----[Back](../README.md)
