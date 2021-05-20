@@ -1,0 +1,4 @@
+# Class 04 Reading Notes
+* Objects are an encapsulation of variables and functions into a single entity. Objects get their variables and functions from classes. Classes are basically a template to make your objects. To access variables and functions from an object, use dot notation: object.function().
+* Recursion is basically breaking a big problem down into much smaller problems trivial enough to solve. To maintain state during each recursive call, you have to either thread the state to the next recursive call, or keep the state in global scope. Recursion can be seen as self referential function composition. Something that helps the performance of recursive functions is caching, it makes a check to se if the value has been calculated before and if it has then it just pulls the value from the cache rather than recalculating it. 
+<-----[Back](../README.md)
