@@ -1,0 +1,4 @@
+# Reading Notes for Class 06
+* The random module allows you access to functions that support many operations, including generating random numbers. Random choice gets a random value from a list. Shuffle will shuffle a list. 
+* Risk analysis is the process of identifying risks in applications or software that you build and prioritizing them to test. Risk is calculated when categorization of risks is done. In software, risk analysis is used to highlight potential problems. Risk analysis helps software developers mitigate the risks by knowing them at the beginning of a project. Certain risks are unavoidable. They are: the time you allocate for testing, a defect leakage due to the size or complexity of the application, urgency from clients, incomplete requirements. Steps to perform risk analysis: searching the risk, analyzing the impact of each individual risk, measures for the risk identified.
+<-----[Back](../README.md)
