@@ -1,0 +1,3 @@
+# Reading Notes for Class 07
+* The concept of scope rules how variables and names are looked up in your code. It determines the visibility of a variable within the code. The scope of a name or variable depends on the place in your code where you create that variable. LEGB is the python scope concept. L stands for local, E for enclosing, G for global, and B for built-in scopes. Python follows this sequence when resolving names in program. Modifying global variables is generally considered bad practice. It can lead to bugs that are hard to find, and code that is confusing. 
+<-----[Back](../README.md)
