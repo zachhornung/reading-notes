@@ -1,0 +1,4 @@
+# Reading Notes for Class 09
+* Dunder methods are basically the same as regular methods, just with two underscores before and after them. They allow you to replicate things like the str() function. The __getitem__ method allows your object to be iterable which is super handy. The __eq__ method allows an object to be compared to other objects. The __add__ method allows for you to define how the + operator will work with your class. 
+* Probability is the chance of an event happening. Distribution is a bell curve usually, and outliers are datapoints that are far away from the middle of the curve. The Central Limit Theorem dictates that the distribution of these estimates will look like a normal distribution. The Three Sigma rule, also known as the empirical rule or 68-95-99.7 rule, is an expression of how many of our observations fall within a certain distance of the mean.
+<-----[Back](../README.md)
