@@ -1,0 +1,3 @@
+# Reading Notes for Class 13
+* Linear regression is a math equation, and python has libraries that allow you to easily calculate the equation for a dataset. With scikit learn, basically you get the dataset into a pandas dataframe, add the housing prices as another column (which will end up being the labels for training) and then train the model on the training data. The training data comes from using scikit learn train test split function. Then calculate the error and adjust as needed.
+<-----[Back](../README.md)
