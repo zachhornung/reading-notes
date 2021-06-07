@@ -69,3 +69,4 @@ How to stay in a growth mindset
 * [Class-11](401-reading-notes/class-11.md)
 * [Class-12](401-reading-notes/class-12.md)
 * [Class-13](401-reading-notes/class-13.md)
+* [Class-14](401-reading-notes/class-14.md)

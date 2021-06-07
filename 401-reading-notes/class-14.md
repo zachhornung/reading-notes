@@ -1,0 +1,3 @@
+# Reading Notes for Class 14
+* Matplot lib is the most popular python 2d graphics library. Color is set with the color param. Ticks are the lines that mark values on the axis. Spines are the lines that make up the x and y axis. A scatter plot laid over the top of the original graph can provide point annotations. Sub plots can be organized on a plot to show more than one plot at once. Simple animations can also be done on matplotlib. Matplot lib is a great library for python visualizations.
+<-----[Back](../README.md)
