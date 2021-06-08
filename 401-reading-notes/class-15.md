@@ -1,0 +1,3 @@
+# Reading Notes for Class 15
+* Web scraping is a way to quickly gather large amounts of data from a website. You basically extract the href from the html, and then make your own http request with the requests library. There are many different techniques for web scraping, including human copy and paste, text pattern matching, http programming, html parsing, dom parsing, vertical aggregation, semantic annotation recognizing, computer vision web-page analysis.
+<-----[Back](../README.md)
