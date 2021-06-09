@@ -1,0 +1,3 @@
+# Reading Notes for Class 16
+* Encryption is the encoding and decoding of messages. Encryption is the systematic scrambling of a pattern, and decryption is the unscrambling of a pattern using a cypher. The Caesar cypher is one of the oldest and simplest cyphers. The alphabet is shifted a given number of spaces, and the letters in the original message are replaced with the corresponding shifted letters. Three ways to try and crack a coded message are frequency analysis, plaintext, and brute force. 
+<-----[Back](../README.md)
